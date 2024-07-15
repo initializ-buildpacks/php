@@ -48,7 +48,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/php-httpd"
-    version = "0.3.31"
+    version = "1.0.0"
 
   [[order.group]]
     id = "initializ-buildpacks/php-memcached-session-handler"
