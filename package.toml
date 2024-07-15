@@ -30,7 +30,7 @@
   uri = "urn:cnb:registry:initializ-buildpacks/php-fpm@0.2.24"
 
 [[dependencies]]
-  uri = "urn:cnb:registry:initializ-buildpacks/php-start@1.0.0"
+  uri = "urn:cnb:registry:initializ-buildpacks/php-start@2.0.0"
 
 [[dependencies]]
   uri = "urn:cnb:registry:initializ-buildpacks/php-redis-session-handler@1.0.0"
