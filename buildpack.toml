@@ -44,7 +44,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/php-fpm"
-    version = "2.2.24"
+    version = "0.2.24"
 
   [[order.group]]
     id = "initializ-buildpacks/php-httpd"
@@ -111,7 +111,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/php-fpm"
-    version = "2.2.24"
+    version = "0.2.24"
 
   [[order.group]]
     id = "initializ-buildpacks/php-nginx"

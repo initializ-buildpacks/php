@@ -27,7 +27,7 @@
   uri = "urn:cnb:registry:initializ-buildpacks/php-builtin-server@0.4.35"
 
 [[dependencies]]
-  uri = "urn:cnb:registry:initializ-buildpacks/php-fpm@2.2.24"
+  uri = "urn:cnb:registry:initializ-buildpacks/php-fpm@0.2.24"
 
 [[dependencies]]
   uri = "urn:cnb:registry:initializ-buildpacks/php-start@1.0.0"
