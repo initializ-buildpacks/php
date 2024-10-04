@@ -15,7 +15,7 @@
   uri = "urn:cnb:registry:initializ-buildpacks/composer-install@1.0.0"
 
 [[dependencies]]
-  uri = "urn:cnb:registry:initializ-buildpacks/php-dist@2.2.4"
+  uri = "index.docker.io/initializbuildpacks/php-dist@sha256:a54c5b98d114834a12701db9740be12f71200fbe7176423ccc31c11b5f5f6db7"
 
 [[dependencies]]
   uri = "urn:cnb:registry:initializ-buildpacks/php-httpd@1.0.0"

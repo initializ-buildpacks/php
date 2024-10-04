@@ -26,7 +26,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/php-dist"
-    version = "2.2.4"
+    version = "2.2.6"
 
   [[order.group]]
     id = "initializ-buildpacks/composer"
@@ -93,7 +93,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/php-dist"
-    version = "2.2.4"
+    version = "2.2.6"
 
   [[order.group]]
     id = "initializ-buildpacks/composer"
@@ -150,7 +150,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/php-dist"
-    version = "2.2.4"
+    version = "2.2.6"
 
   [[order.group]]
     id = "initializ-buildpacks/composer"
